@@ -1,0 +1,9 @@
+{
+  "name": "trade-journal-compounder",
+  "private": true,
+  "version": "2026.10.10",
+  "scripts": {
+    "build": "esbuild src/entry-deploy.jsx --bundle --minify --line-limit=900 --format=iife --jsx=transform --jsx-factory=React.createElement --jsx-fragment=React.Fragment --loader:.jsx=jsx --alias:react=./src/shims/react.js --alias:react-dom/client=./src/shims/react-dom-client.js --alias:recharts=./src/shims/recharts.js --alias:@supabase/supabase-js=./src/shims/supabase.js --outfile=app-ll.js && node split.js && node gen_index.js"
+  },
+  "devDependencies": { "esbuild": "^0.28.2" }
+}

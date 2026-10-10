@@ -1,0 +1,48 @@
+{
+  "whole": "312797ec45ddec3a0c61baaffec3474dbf8a9703c5c441a1d466dd06f91c3da6",
+  "build": "2026-10-10",
+  "chunks": [
+    {
+      "file": "chunks/c01.txt",
+      "bytes": 33330,
+      "lines": 36,
+      "sha1": "cef8ca5518a19eaf215732b5ccc956ebb64b1f34",
+      "sha256": "acb74264f65941ef3e7444ed1fcfd959acac56f1d3c9c462ae1cf29e755a1b11"
+    },
+    {
+      "file": "chunks/c02.txt",
+      "bytes": 33395,
+      "lines": 37,
+      "sha1": "4c2798d1329a89667083b4291001907a89bebb91",
+      "sha256": "733df3ec33303ac341d96542e34a3dec5ff7b5bfcb494ed48c05826dcf81bec9"
+    },
+    {
+      "file": "chunks/c03.txt",
+      "bytes": 33192,
+      "lines": 74,
+      "sha1": "85ec6a1aae97d93af80df371bf581faa0d24ecb1",
+      "sha256": "20574ad537f0bcad27d98b53fd53456ffe9b6333fabc432d8b48b2a36738cc8e"
+    },
+    {
+      "file": "chunks/c04.txt",
+      "bytes": 33435,
+      "lines": 37,
+      "sha1": "7f50be14520137a3df9aecd91115a3692114007e",
+      "sha256": "86f44ef883c5627ce37a778b39695e638a1be4f985ed9a2778dbc79c96cd50ad"
+    },
+    {
+      "file": "chunks/c05.txt",
+      "bytes": 33467,
+      "lines": 37,
+      "sha1": "6c6fc0cf145cc1401217e7e800f669a0522c275d",
+      "sha256": "f60a6100a1dd5171637e097d88bedbb143335e279c8dc5af39e34494609007d8"
+    },
+    {
+      "file": "chunks/c06.txt",
+      "bytes": 33607,
+      "lines": 37,
+      "sha1": "9b34a63194337ad74dea07d71723aedca9195aba",
+      "sha256": "bbec1a4a3df761f050b04adf0029f7d05145bbd05b8035e9a6b1a0fbccf291bf"
+    }
+  ]
+}
